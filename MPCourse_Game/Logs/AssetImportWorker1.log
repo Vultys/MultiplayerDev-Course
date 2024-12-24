@@ -778,3 +778,160 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 726.704424 seconds.
+  path: Assets/Art/Coin_Bounty.png
+  artifactKey: Guid(7bfd0a0977e81b84a8f1d12195e5883a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Coin_Bounty.png using Guid(7bfd0a0977e81b84a8f1d12195e5883a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '188b03bde618b1d5113e1cfde7466225') in 0.042345 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Art/Martian_Soil1.png
+  artifactKey: Guid(c578afc5f5e1d594fb558d6bb977dc1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Martian_Soil1.png using Guid(c578afc5f5e1d594fb558d6bb977dc1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c8d6e8f6b826a5f8c955c90efa9b06e') in 0.009026 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Art/Frame.png
+  artifactKey: Guid(e3681d0c635b0ab41a42bddd6ff9f1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Frame.png using Guid(e3681d0c635b0ab41a42bddd6ff9f1d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f3593931b6f1b1442d9c06434a3b376') in 0.005364 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Art/Rock_Dark_01.png
+  artifactKey: Guid(30fb92bee94291c488f037bfb944d19b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Rock_Dark_01.png using Guid(30fb92bee94291c488f037bfb944d19b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68f8270611c24a635417358cf62d5079') in 0.008638 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Art/Radar.png
+  artifactKey: Guid(16b74084c63f08f48874c991a63bf571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Radar.png using Guid(16b74084c63f08f48874c991a63bf571) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '669e24323265a37d78e3616271504e34') in 0.009307 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Art/Quit_Button.png
+  artifactKey: Guid(d503b9a52ce751845bbb9d60aa7eb340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Quit_Button.png using Guid(d503b9a52ce751845bbb9d60aa7eb340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a21fa20ab91f0d092afff2717717eb0') in 0.001885 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Art/Tank_Tracks_Gray.png
+  artifactKey: Guid(1a838243856331f4681c559527ad5846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tank_Tracks_Gray.png using Guid(1a838243856331f4681c559527ad5846) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21c9f48de366c8c67abf477271e22c6d') in 0.002338 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Art/DustCloud_Particle.png
+  artifactKey: Guid(7aa3ac723f783044c8db67eef8c3c7c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/DustCloud_Particle.png using Guid(7aa3ac723f783044c8db67eef8c3c7c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2424b752f62cce48130e8d6dd9e796a') in 0.007667 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Art/Wall_0011.png
+  artifactKey: Guid(8de887fe9eda05449a30b1c13e6b6e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Wall_0011.png using Guid(8de887fe9eda05449a30b1c13e6b6e93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81dd8a67eb162366ffdc87c1543d9a41') in 0.002094 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Art/Tank_Tread_AB.png
+  artifactKey: Guid(8578f17e38aacb04fb47d4fa43ad9431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tank_Tread_AB.png using Guid(8578f17e38aacb04fb47d4fa43ad9431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20662fc77e4160e1c4e46b1df08fd8c5') in 0.002088 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Art/Wall_0101.png
+  artifactKey: Guid(9dd1ad5210563ce428cfc9b8f89e7269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Wall_0101.png using Guid(9dd1ad5210563ce428cfc9b8f89e7269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9de7d3eabbd07cda4bc39921add577b') in 0.002476 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Art/Rock_Dark_02.png
+  artifactKey: Guid(e9a22e92c7b137a41b83dec0ea9d7be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Rock_Dark_02.png using Guid(e9a22e92c7b137a41b83dec0ea9d7be6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b54ed50b19476aeb048b6e8e785d8c4') in 0.002156 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Art/Muzzle_Flash.png
+  artifactKey: Guid(9d8bd4f8481a773488649b18bd02cbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Muzzle_Flash.png using Guid(9d8bd4f8481a773488649b18bd02cbc1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa4321452ef16e0aa48d447ce814f77a') in 0.001599 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Art/Tank_Turret_Gray.png
+  artifactKey: Guid(a94bf141bd2044c4399e321445c83112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tank_Turret_Gray.png using Guid(a94bf141bd2044c4399e321445c83112) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c938e96a64b5a712f038349b619227bf') in 0.001722 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Art/Tank_Body_Gray.png
+  artifactKey: Guid(8769e4453ce5bc3429cfba7d58fbef13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Tank_Body_Gray.png using Guid(8769e4453ce5bc3429cfba7d58fbef13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce714084eda260edc0d0c88a80b736b1') in 0.001749 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.528881 seconds.
+  path: Assets/Art/Wall_1010.png
+  artifactKey: Guid(fddd97fe5045c8c4f88dece487087a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Wall_1010.png using Guid(fddd97fe5045c8c4f88dece487087a7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dfd4bb4b6526a5ca6e77139f0598865') in 0.001655 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Art/Wall_1110.png
+  artifactKey: Guid(7ecf599bd41b12f448ccc2cf73d4518b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Wall_1110.png using Guid(7ecf599bd41b12f448ccc2cf73d4518b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db06711ab1f5c2117f3d61bd2d5d5a91') in 0.002178 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Art/Wall_1101.png
+  artifactKey: Guid(55a3fddfdd808b1489eb384defc2a9e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Wall_1101.png using Guid(55a3fddfdd808b1489eb384defc2a9e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61f036edde08fd8e6df939b7b005c43c') in 0.002715 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Art/Wall_1111.png
+  artifactKey: Guid(2f51d4ae9b7851e46858a548b2fa2a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Wall_1111.png using Guid(2f51d4ae9b7851e46858a548b2fa2a34) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72f98ea4b75bda200d4ba236a4d08d29') in 0.001388 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
