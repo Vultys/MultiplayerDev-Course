@@ -98,6 +98,7 @@ GameObject:
   - component: {fileID: 8955763682106455260}
   - component: {fileID: 3199317458132975874}
   - component: {fileID: 7864254950565823916}
+  - component: {fileID: 8454862276967206049}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -229,6 +230,54 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _turretTransform: {fileID: 2245686352589910193}
   _inputReader: {fileID: 11400000, guid: f3b8a6e35e78a844db08b9562949d714, type: 2}
+--- !u!114 &8454862276967206049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6591153979743112715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18a84fd9d7b93e44697d660f40b9281f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _inputReader: {fileID: 11400000, guid: f3b8a6e35e78a844db08b9562949d714, type: 2}
+  _projectileSpawnPoint: {fileID: 2271544195466822624}
+  _serverProjectilePrefab: {fileID: 4663772009387064531, guid: 3d3723e725f28ca42af17ad279fbb2f3, type: 3}
+  _clientProjectilePrefab: {fileID: 8875384795060356234, guid: 84dbc78b0ad416c4cae4b7332293d567, type: 3}
+  _projectileSpeed: 30
+--- !u!1 &6953285163811978672
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2271544195466822624}
+  m_Layer: 0
+  m_Name: ProjectileSpawnPoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2271544195466822624
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6953285163811978672}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4522334473047739769}
+  m_RootOrder: -1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7369354855680072114
 GameObject:
   m_ObjectHideFlags: 0
@@ -419,7 +468,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 2271544195466822624}
   m_Father: {fileID: 2245686352589910193}
   m_RootOrder: -1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
